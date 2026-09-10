@@ -31,8 +31,6 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
-> JS/TS mainly through React & Next.js (my thesis's frontend, not my current focus since I'm splitting time across other priorities) and practice on LeetCode. Still building depth in both.
-
 **Tools**
 
 <p align="left">
