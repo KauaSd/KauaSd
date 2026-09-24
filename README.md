@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Kauã Silva 👋</h1>
 <h3 align="center">Also known as Zenith 🌌 | High School Student pursuing a Technical Degree in Software Development</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+a+thesis+to+help+teachers;Passionate+about+tech" alt="Typing SVG" />
-</p>
 
 ---
 
